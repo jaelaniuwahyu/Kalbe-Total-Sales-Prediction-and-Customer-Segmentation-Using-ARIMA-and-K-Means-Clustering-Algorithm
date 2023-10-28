@@ -5,7 +5,11 @@ In this project, I used ARIMA to predicted total sales and K-Means Clustering to
 
 # Contents
 Customer Segmentation Using K-Means Clustering Algorithm
+
 Datasets
+
 EDA by Using DBeaver & PostgreSQL
+
 Sales Dashboard Using Tableau
+
 Total Sales Prediction Using ARIMA
