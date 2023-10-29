@@ -10,6 +10,8 @@
 
 - EDA by Using DBeaver & PostgreSQL
 
+- File Presentation
+
 - Sales Dashboard Using Tableau
 
 - Total Sales Prediction Using ARIMA
